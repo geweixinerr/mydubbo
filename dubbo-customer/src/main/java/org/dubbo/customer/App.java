@@ -1,4 +1,4 @@
-package com.dubbo.mydubbo;
+package org.dubbo.customer;
 
 /**
  * Hello world!
